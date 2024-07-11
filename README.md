@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy Debkarjee</h1>
-<h3 align="center">Driven by a fascination for web technologies, I'm committed to mastering web development and creating seamless digital experiences for users.</h3>
+<h3 align="center">Driven by a fascination for technology, I'm committed to mastering digital innovations and creating seamless experiences for users.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
 
 
